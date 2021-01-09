@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IMDB</string>
+    <string name="title_genreSearch">Search by Genre</string>
+    <string name="title_genreResults">Results</string>
+    <string name="title_titleSearch">Search by Title</string>
+    <string name="title_results">Results</string>
+    <string name="btn_submit">Search</string>
+    <string name="title_lbl">Title: </string>
+    <string name="type_lbl">Type: </string>
+    <string name="year_lbl">Year: </string>
+    <string name="genre_lbl">Genre:</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_genre_search">
+
+    <fragment
+        android:id="@+id/navigation_genre_search"
+        android:name="android.bignerdranch.imdb.mvc.genreController.GenreSearchFragment"
+        android:label="@string/title_genreSearch"
+        tools:layout="@layout/fragment_genre_search" />
+
+    <fragment
+        android:id="@+id/navigation_genre_results"
+        android:name="android.bignerdranch.imdb.mvc.searchView.GenreResultsFragment"
+        android:label="@string/title_genreResults"
+        tools:layout="@layout/fragment_genre_results" />
+
+    <fragment
+        android:id="@+id/navigation_title_search"
+        android:name="android.bignerdranch.imdb.mvc.titleController.TitleSearchFragment"
+        android:label="@string/title_titleSearch"
+        tools:layout="@layout/fragment_title_results" />
+
+    <fragment
+        android:id="@+id/navigation_results"
+        android:name="android.bignerdranch.imdb.mvc.searchView.SearchResultsFragment"
+        android:label="@string/title_results"
+        tools:layout="@layout/fragment_title_search" />
+</navigation>

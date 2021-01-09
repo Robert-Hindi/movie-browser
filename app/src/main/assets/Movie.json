@@ -1,0 +1,22 @@
+{"Movie":[
+	{"Title":"Holidate","Genre":"Comedy","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BYWVmYTFjODItOTY2Ni00NDhhLTk1ZDYtMzBmOGFhZTMyY2Q0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg"},
+	{"Title":"Borat Subsequent Moviefilm","Genre":"Comedy","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BZmY2ZmM5YTktZThiOC00YjEzLTg4YTctMDAxYWEyZmEyZDlhXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg"},
+	{"Title":"The Boys","Genre":"Comedy","Year":"2019","Poster":"https://m.media-amazon.com/images/M/MV5BNGEyOGJiNWEtMTgwMi00ODU4LTlkMjItZWI4NjFmMzgxZGY2XkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_SX300.jpg"},
+	{"Title":"Schitt's Creek","Genre":"Comedy","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BNWQ1ZmM3MTQtNTVhZC00MWVlLWI5ZjgtYmZiYWQxZjUzZWM0XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg"},
+	{"Title":"The Mandalorian","Genre":"Sci-Fi","Year":"2019","Poster":"https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX300.jpg"},
+	{"Title":"Tenet","Genre":"Sci-Fi","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SX300.jpg"},
+	{"Title":"Over the Moon","Genre":"Sci-Fi","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BNTI0ZjVhM2ItMmFkOS00ZmFiLTg4NGQtODJjNTZmMDYxMWMyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"},
+	{"Title":"Possessor Uncut","Genre":"Sci-Fi","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BMjBlYTlhMDctNTQ3ZC00MjM4LWIxNjctNDI4NjA3NDc3Yzc5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg"},
+	{"Title":"The Haunting of Bly Manor","Genre":"Horror","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BZGJkMDRiOWUtZTMzZC00YzYzLWI1NDAtODc4ZGFiN2Q2MmJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"},
+	{"Title":"The Witches","Genre":"Horror","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BNWU0MTRlN2MtZTdhZS00NTA0LWJkNjAtYmRmODZjMjA0MGNjXkEyXkFqcGdeQXVyMjM1NzQ0NjE@._V1_SX300.jpg"},
+	{"Title":"Doctor Sleep","Genre":"Horror","Year":"2019","Poster":"https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_SX300.jpg"},
+	{"Title":"Spell","Genre":"Horror","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BZmQ2ZmMxNGMtMTBmNS00M2VkLWExN2EtMzdmMzMxNWI0MzYyXkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_SX300.jpg"},
+	{"Title":"Over the Moon","Genre":"Animation","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BNTI0ZjVhM2ItMmFkOS00ZmFiLTg4NGQtODJjNTZmMDYxMWMyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"},
+	{"Title":"The Addams Family","Genre":"Animation","Year":"2019","Poster":"https://m.media-amazon.com/images/M/MV5BODBjOTAzZmMtNGJkOC00M2M3LWI1MTctZjZlMzdiODBkMzc0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg"},
+	{"Title":"The Lion King","Genre":"Animation","Year":"2019","Poster":"https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg"},
+	{"Title":"Blood of Zeus","Genre":"Animation","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BODFjOGM0ZjktOGIyYi00ZTAxLWE5NzAtYjFiZGU5NDZmZTNjXkEyXkFqcGdeQXVyMjUyNzQ0NjU@._V1_SX300.jpg"},
+	{"Title":"The Undoing","Genre":"Thriller","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BNzNiODFjOWUtYTY3NC00NTM0LWE5MzEtNTVmZGZmZjdiZWI1XkEyXkFqcGdeQXVyNTA0OTc2Nzc@._V1_SX300.jpg"},
+	{"Title":"His House","Genre":"Thriller","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BODY2NjQzYzYtYTgyMy00M2MxLTgyMWQtZTU1NWZjZWU4ZDc3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg"},
+	{"Title":"The Trial of the Chicago 7","Genre":"Thriller","Year":"2020","Poster":"https://m.media-amazon.com/images/M/MV5BYjYzOGE1MjUtODgyMy00ZDAxLTljYTgtNzk0Njg2YWQwMTZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"},
+	{"Title":"Midsommar","Genre":"Thriller","Year":"2019","Poster":"https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_SX300.jpg"}
+]}
